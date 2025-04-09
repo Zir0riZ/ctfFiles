@@ -1,7 +1,5 @@
-🔍 Steganography Tools
-bash
-Copy
-Edit
+🔍Steganography Tools
+
 # AperiSolve - Online automated image analysis for steganography
 https://aperisolve.fr/
 
@@ -15,10 +13,9 @@ https://georgeom.net/StegOnline/upload
 # zsteg - Tool to detect LSB and other hidden data in PNG/BMP images
 # binwalk - Extract hidden files and embedded data from binary files
 # exiftool - View and edit metadata of images and other media files
+---------------------------------------------------------------------------------------
 🕵️ Forensics Tools
-bash
-Copy
-Edit
+
 # Wireshark - Packet analyzer for network traffic inspection
 # Volatility - Memory forensics framework for analyzing RAM dumps
 # Autopsy - Digital forensics platform for analyzing disk images
@@ -27,10 +24,9 @@ Edit
 # binwalk - Firmware and binary analysis
 # foremost - File recovery tool based on headers/footers
 # xxd - Create a hex dump or reverse a hex dump back to binary
+---------------------------------------------------------------------------------------------
 🌐 Web Security Tools
-bash
-Copy
-Edit
+
 # Burp Suite - Web vulnerability scanner and proxy for testing web apps
 # sqlmap - Automated SQL injection and database takeover tool
 # dirsearch - Brute-force directories and files on web servers
@@ -40,19 +36,16 @@ Edit
 https://addons.mozilla.org/en-US/firefox/addon/hackbar/
 
 # Cookie-Editor - Modify, add or delete browser cookies easily
+---------------------------------------------------------------------------------------------
 📡 Network Security Tools
-bash
-Copy
-Edit
+
 # Wireshark - Analyze network packets in real time or from PCAP files
 # tcpdump - Command-line packet analyzer
 # tshark - Terminal version of Wireshark
 # scapy - Python-based interactive packet manipulation tool
 # Netcat - Network utility for reading/writing over TCP/UDP connections
+--------------------------------------------------------------------------------------------
 🌐 Online Utilities & Analysis Platforms
-bash
-Copy
-Edit
 # ReqBin - Send HTTP requests (GET/POST) and view responses online
 https://reqbin.com/
 
@@ -66,4 +59,4 @@ https://lab.dynamite.ai/
 https://www.dcode.fr/
 
 # Boxentriq - Cryptography and steganography analysis tools
-https://www.boxentriq.com/
+https://www.boxentriq.com/ 
