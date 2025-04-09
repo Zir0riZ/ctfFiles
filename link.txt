@@ -1,25 +1,69 @@
+🔍 Steganography Tools
+bash
+Copy
+Edit
+# AperiSolve - Online automated image analysis for steganography
 https://aperisolve.fr/
-https://gchq.github.io/CyberChef/
-https://georgeom.net/StegOnline/upload
-https://addons.mozilla.org/en-US/firefox/addon/hackbar/
-ReqBin
-https://apackets.com/
-https://lab.dynamite.ai/
-https://www.dcode.fr/
-https://www.boxentriq.com/
 
--------------------------
-stegsolve (برای بررسی رنگ‌های پیکسل)
-zsteg, binwalk, exiftool
--------------------------
-Wireshark (برای تحلیل ترافیک)
-Volatility (برای آنالیز رم)
-Autopsy, FTK Imager
-strings, binwalk, foremost, xxd
------------------------
-Burp Suite (شاهکار هک وب!)
-sqlmap, dirsearch, wfuzz, gobuster
-ابزارهای مرورگر مثل HackBar, Cookie-Editor
------------------------
-Wireshark (دوستت، معشوقت، همه‌چیزت توی این بخش)
-tcpdump, tshark, scapy, Netcat
+# CyberChef - "The Cyber Swiss Army Knife" for encoding/decoding and data manipulation
+https://gchq.github.io/CyberChef/
+
+# StegOnline - Visualize and analyze LSB data in PNG/BMP images
+https://georgeom.net/StegOnline/upload
+
+# stegsolve - Java tool to analyze pixel layers and colors in images
+# zsteg - Tool to detect LSB and other hidden data in PNG/BMP images
+# binwalk - Extract hidden files and embedded data from binary files
+# exiftool - View and edit metadata of images and other media files
+🕵️ Forensics Tools
+bash
+Copy
+Edit
+# Wireshark - Packet analyzer for network traffic inspection
+# Volatility - Memory forensics framework for analyzing RAM dumps
+# Autopsy - Digital forensics platform for analyzing disk images
+# FTK Imager - Disk image viewing and forensic analysis tool
+# strings - Extract printable strings from binary files
+# binwalk - Firmware and binary analysis
+# foremost - File recovery tool based on headers/footers
+# xxd - Create a hex dump or reverse a hex dump back to binary
+🌐 Web Security Tools
+bash
+Copy
+Edit
+# Burp Suite - Web vulnerability scanner and proxy for testing web apps
+# sqlmap - Automated SQL injection and database takeover tool
+# dirsearch - Brute-force directories and files on web servers
+# wfuzz - Web application brute forcer for fuzzing web parameters
+# gobuster - Directory and DNS scanner written in Go
+# HackBar - Browser extension for quick XSS, SQLi, etc.
+https://addons.mozilla.org/en-US/firefox/addon/hackbar/
+
+# Cookie-Editor - Modify, add or delete browser cookies easily
+📡 Network Security Tools
+bash
+Copy
+Edit
+# Wireshark - Analyze network packets in real time or from PCAP files
+# tcpdump - Command-line packet analyzer
+# tshark - Terminal version of Wireshark
+# scapy - Python-based interactive packet manipulation tool
+# Netcat - Network utility for reading/writing over TCP/UDP connections
+🌐 Online Utilities & Analysis Platforms
+bash
+Copy
+Edit
+# ReqBin - Send HTTP requests (GET/POST) and view responses online
+https://reqbin.com/
+
+# Apackets - Online PCAP analyzer
+https://apackets.com/
+
+# Dynamite Lab - AI-powered threat hunting and forensics platform
+https://lab.dynamite.ai/
+
+# DCode - Online tools for classical ciphers and steganography
+https://www.dcode.fr/
+
+# Boxentriq - Cryptography and steganography analysis tools
+https://www.boxentriq.com/
