@@ -1,4 +1,14 @@
 https://aperisolve.fr/
+https://gchq.github.io/CyberChef/
+https://georgeom.net/StegOnline/upload
+https://addons.mozilla.org/en-US/firefox/addon/hackbar/
+ReqBin
+https://apackets.com/
+https://lab.dynamite.ai/
+https://www.dcode.fr/
+https://www.boxentriq.com/
+
+-------------------------
 stegsolve (برای بررسی رنگ‌های پیکسل)
 zsteg, binwalk, exiftool
 -------------------------
