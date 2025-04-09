@@ -1,1 +1,15 @@
 https://aperisolve.fr/
+stegsolve (برای بررسی رنگ‌های پیکسل)
+zsteg, binwalk, exiftool
+-------------------------
+Wireshark (برای تحلیل ترافیک)
+Volatility (برای آنالیز رم)
+Autopsy, FTK Imager
+strings, binwalk, foremost, xxd
+-----------------------
+Burp Suite (شاهکار هک وب!)
+sqlmap, dirsearch, wfuzz, gobuster
+ابزارهای مرورگر مثل HackBar, Cookie-Editor
+-----------------------
+Wireshark (دوستت، معشوقت، همه‌چیزت توی این بخش)
+tcpdump, tshark, scapy, Netcat
